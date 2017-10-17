@@ -1,0 +1,20 @@
+{
+  "name": "patrickc",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Alexa Skill",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Patrick Cavanagh, Apadmi Ltd",
+  "license": "ISC"
+}

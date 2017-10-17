@@ -1,0 +1,40 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "SessionId.b276baee-1321-4023-8859-a6dd89254506",
+    "application": {
+      "applicationId": "amzn1.ask.skill.your_skill_id_here"
+    },
+    "attributes": {},
+    "user": {
+      "userId": "amzn1.ask.account.AHJJJ5K5OC3DE5WZLZBETRQHLT7MFMJXCWAVWE6GLLFBHVH4O7B42MUAVHNRZFT7YM3FDZLHV7NR5DE6QGQVRVVFMTTBUS4FM3FDMCKZBTG7O32HWEXSCOC5HHM6NL6WGNZJDF3YYH4OPDQJFEBT52TYVZ54DE43LGKAQUALFA5DSMX66PSWRSA7WVUQ57EPBLSRXWIJEGHSR2I"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "EdwRequestId.7c0fa5a2-fa3b-4d76-8a15-6a1ab0e31416",
+    "intent": {
+      "name": "LongestGame",
+      "slots": {}
+    },
+    "locale": "en-US",
+    "timestamp": "2017-10-16T14:48:24Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.your_skill_id_here"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AHJJJ5K5OC3DE5WZLZBETRQHLT7MFMJXCWAVWE6GLLFBHVH4O7B42MUAVHNRZFT7YM3FDZLHV7NR5DE6QGQVRVVFMTTBUS4FM3FDMCKZBTG7O32HWEXSCOC5HHM6NL6WGNZJDF3YYH4OPDQJFEBT52TYVZ54DE43LGKAQUALFA5DSMX66PSWRSA7WVUQ57EPBLSRXWIJEGHSR2I"
+      },
+      "device": {
+        "supportedInterfaces": {}
+      }
+    }
+  },
+  "version": "1.0"
+}
