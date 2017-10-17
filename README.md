@@ -5,4 +5,11 @@ Configure aws sdk to test skill locally as per: https://developer.amazon.com/blo
 
 Configure awscli to publish skill as per: https://developer.amazon.com/blogs/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface 
 
+Intent Generator
+https://www.npmjs.com/package/intent-utterance-generator
+http://alexa-utter-gen.paperplane.io/
+
+Skill generator
+https://skillinator.io/
+
 
